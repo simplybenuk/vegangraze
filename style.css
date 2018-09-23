@@ -1,3 +1,16 @@
 body {
   background-color: #CCE0CC;
-  }
+}
+
+.highlight-box {
+  margin: 0 auto;
+  width: 750px;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
